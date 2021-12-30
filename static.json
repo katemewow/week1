@@ -1,7 +1,7 @@
 {
-  "headers":{
-    "/*":{
-      "X-Author": "spbstu20350127"
+  "headers": {
+    "/*": {
+      "X-Author": "spbstu20350127",
       "Access-Control-Allow-Origin":"*"
     }
   }
